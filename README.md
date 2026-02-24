@@ -15,7 +15,7 @@
 ---
 
 ## 🖥 介面預覽 (Dashboard)
-UI介面.png
+[UI介面.png](https://github.com/xingyuOuO/crypto_monitor/blob/744beb03226cebcd0540ae6837f67926cda14c4f/UI%E4%BB%8B%E9%9D%A2.png)
 
 
 ## 📂 專案架構 (Project Structure)
