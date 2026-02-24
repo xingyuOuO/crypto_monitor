@@ -15,8 +15,8 @@
 ---
 
 ## 🖥 介面預覽 (Dashboard)
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Your+App+Screenshot+Here)
-*(建議：你可以將你執行的截圖上傳到 GitHub 後，把上面的網址換成你的圖片連結)*
+[UI介面.png](https://github.com/xingyuOuO/crypto_monitor/blob/744beb03226cebcd0540ae6837f67926cda14c4f/UI%E4%BB%8B%E9%9D%A2.png)
+
 
 ## 📂 專案架構 (Project Structure)
 本專案採用邏輯與介面分離的架構開發，確保代碼的可維護性與清晰度：
