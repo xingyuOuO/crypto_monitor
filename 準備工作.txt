@@ -1,5 +1,0 @@
-# 建立虛擬環境
-python -m venv env
-
-# 啟動環境 (Windows)
-env\Scripts\activate
