@@ -22,7 +22,7 @@
 本專案採用邏輯與介面分離的架構開發，確保代碼的可維護性與清晰度：
 
 
-```yaml
+
 crypto_s1/
 ├── main_gui.py        # [前端] 客製化介面與互動邏輯，負責處理 UI 渲染
 ├── monitor_logic.py   # [後端] Binance API 通訊與計算核心，包含策略邏輯
